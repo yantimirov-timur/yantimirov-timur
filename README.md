@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yantimirov-timur
+- 👋 Hi, I’m Timur Yantimirov
 - 👀 I’m interested in kotlin, java, compiliers
 - 🌱 I’m currently studying in SPBSTU Peter The Great
 <!---
