@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Timur Yantimirov
-- 👀 I’m interested in kotlin, java, compiliers
 - 🌱 I’m currently studying in SPBSTU Peter The Great
 <!---
 yantimirov-timur/yantimirov-timur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
